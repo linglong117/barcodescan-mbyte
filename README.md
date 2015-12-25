@@ -1,8 +1,8 @@
 # PhoneGap Plugin BarcodeScanner
 ================================
-### 原始链接：https://github.com/phonegap/phonegap-plugin-barcodescanner.git
+## 原始链接：https://github.com/phonegap/phonegap-plugin-barcodescanner.git
 
-### 重写ios 代码： ios 平台扫码采用zbar（ios 7 以下） 和  AVFoundation实现二维码扫描
+## 重写ios 代码： ios 平台扫码采用zbar（ios 7 以下） 和  AVFoundation实现二维码扫描
 
 
 [![Build Status](https://travis-ci.org/phonegap/phonegap-plugin-barcodescanner.svg)](https://travis-ci.org/phonegap/phonegap-plugin-barcodescanner)
